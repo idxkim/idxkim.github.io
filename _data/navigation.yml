@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "About"
+    url: "/about/"
+  - title: "Posts"
+    url: /posts/
+
+tags:
+  - title: Tags
+    url: /tags/
+    children:
+      - title: "etc"
+        url: /tags/etc/
+
+
